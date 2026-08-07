@@ -1,0 +1,4 @@
+*.layout.json
+*.screenshot.png
+private/
+.DS_Store

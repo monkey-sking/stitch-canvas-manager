@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "projectId": null,
+  "coordinateSpace": "react-flow-logical",
+  "nodes": {
+    "example-screen-id": {
+      "title": "Example screen",
+      "x": 0,
+      "y": 0
+    }
+  }
+}
