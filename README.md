@@ -1,5 +1,9 @@
 # Stitch Canvas Manager
 
+<!-- badges:start -->
+[![Last commit](https://img.shields.io/github/last-commit/monkey-sking/stitch-canvas-manager?style=flat-square)](https://github.com/monkey-sking/stitch-canvas-manager/commits/main) [![JavaScript](https://img.shields.io/github/languages/top/monkey-sking/stitch-canvas-manager?style=flat-square)](https://github.com/monkey-sking/stitch-canvas-manager/search?l=JavaScript) [![views](https://hits.sh/github.com/monkey-sking/stitch-canvas-manager.svg?style=flat-square&label=views&color=0e75b6)](https://github.com/monkey-sking/stitch-canvas-manager)
+<!-- badges:end -->
+
 A privacy-first userscript project for making Google Stitch canvases readable at low zoom and applying repeatable, parameter-driven screen layouts.
 
 The implementation is currently in design review. See [the design specification](docs/superpowers/specs/2026-08-06-stitch-canvas-userscript-design.md).
