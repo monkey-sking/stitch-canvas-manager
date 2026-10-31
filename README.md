@@ -1,7 +1,7 @@
 # Stitch Canvas Manager
 
 <!-- badges:start -->
-[![Last commit](https://img.shields.io/github/last-commit/monkey-sking/stitch-canvas-manager?style=flat-square)](https://github.com/monkey-sking/stitch-canvas-manager/commits/main) [![JavaScript](https://img.shields.io/github/languages/top/monkey-sking/stitch-canvas-manager?style=flat-square)](https://github.com/monkey-sking/stitch-canvas-manager/search?l=JavaScript) [![views](https://hits.sh/github.com/monkey-sking/stitch-canvas-manager.svg?style=flat-square&label=views&color=0e75b6)](https://github.com/monkey-sking/stitch-canvas-manager)
+[![Last commit](https://img.shields.io/github/last-commit/monkey-sking/stitch-canvas-manager?style=flat-square)](https://github.com/monkey-sking/stitch-canvas-manager/commits/main) [![JavaScript](https://img.shields.io/github/languages/top/monkey-sking/stitch-canvas-manager?style=flat-square)](https://github.com/monkey-sking/stitch-canvas-manager/search?l=JavaScript) [![views](https://hits.sh/github.com/monkey-sking/stitch-canvas-manager.svg?style=flat-square&label=views&color=0e75b6)](https://github.com/monkey-sking/stitch-canvas-manager) [![Stars](https://img.shields.io/github/stars/monkey-sking/stitch-canvas-manager?style=flat-square)](https://github.com/monkey-sking/stitch-canvas-manager/stargazers) [![Forks](https://img.shields.io/github/forks/monkey-sking/stitch-canvas-manager?style=flat-square)](https://github.com/monkey-sking/stitch-canvas-manager/network/members)
 <!-- badges:end -->
 
 A privacy-first userscript project for making Google Stitch canvases readable at low zoom and applying repeatable, parameter-driven screen layouts.
